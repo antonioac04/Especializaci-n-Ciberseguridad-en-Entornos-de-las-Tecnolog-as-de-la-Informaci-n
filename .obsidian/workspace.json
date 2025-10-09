@@ -11,14 +11,12 @@
             "id": "0a6a69eec5aafa99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Bastionado de Redes y Sistemas/Unidad 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Bastionado de Redes y Sistemas/Imagenes/Pasted image 20251009162118.png"
               },
-              "icon": "lucide-file",
-              "title": "Unidad 1"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251009162118"
             }
           }
         ]
@@ -169,13 +167,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "0a6a69eec5aafa99",
+  "active": "a5098553ee303983",
   "lastOpenFiles": [
-    "Pasted image 20251009162118.png",
-    "Pasted image 20251009162055.png",
-    "Pasted image 20251009162051.png",
-    "Incidencias Ciberseguridad/Unidad 1.md",
+    "Bastionado de Redes y Sistemas/Imagenes",
+    "Bastionado de Redes y Sistemas/Imagenes/Pasted image 20251009162051.png",
     "Bastionado de Redes y Sistemas/Unidad 1.md",
+    "Bastionado de Redes y Sistemas/Imagenes/Pasted image 20251009162118.png",
+    "Bastionado de Redes y Sistemas/Imagenes/Pasted image 20251009162055.png",
+    "Incidencias Ciberseguridad/Unidad 1.md",
     "Incidencias Ciberseguridad",
     "Analisis Forense",
     "Nueva carpeta",
